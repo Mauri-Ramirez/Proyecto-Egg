@@ -1,0 +1,25 @@
+.divPrimero{
+    background-color: blue;
+    margin: 30px;
+    padding: 20px;
+    width: 500px;
+    height: 300px;
+}
+
+.divSegundo{
+    margin: 30px;
+    padding: 20px;
+    width: 400px;
+    height: 200px;
+ background-color: blueviolet;
+}
+
+
+.divMedio{
+    margin: 30px;
+    padding: 20px;
+    width: 300px;
+    height: 100px;
+    background-color: rgb(14, 180, 125);
+ 
+}
